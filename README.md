@@ -3,7 +3,7 @@ $ git clone
 
 $ git branch
 
-$ touch Git.text1 Git.text2
+$ touch Git.text  Github.text
 
 $ Git add .
 
