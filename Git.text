@@ -5,9 +5,10 @@ software development. It is designed for coordinating work among programmers, bu
 Its goals include speed, data integrity, and support for distributed, non-linear workflows.
 GitHub: GitHub is a web-based Git repository hosting service, which offers all of the
 distributed revision control and source code management (SCM) functionality of Git as well
-as adding its own features
-
-# features of git and git hub:
-  1) branching is easier
-  2) supports collaboration
-  3)
+as adding its own features.
+ # features
+features of git and github :
+1) tracks history
+2) free and open source
+3) creates backups
+4) scalable
